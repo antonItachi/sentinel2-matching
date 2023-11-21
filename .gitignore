@@ -78,6 +78,10 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+#d2-net
+d2_net
+d2_net/
+
 # IPython
 profile_default/
 ipython_config.py

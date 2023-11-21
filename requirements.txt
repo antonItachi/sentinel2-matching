@@ -1,0 +1,10 @@
+matplotlib~=3.8.1
+numpy~=1.26.2
+torch~=2.1.1
+torchvision~=0.16.1
+h5py~=3.10.0
+tqdm~=4.66.1
+imagesize~=1.4.1
+scipy~=1.11.4
+opencv-python~=4.8.1.78
+sentinelhub==3.9.4

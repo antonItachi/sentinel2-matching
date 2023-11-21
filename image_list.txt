@@ -1,0 +1,5 @@
+/home/anton-ai/sentinel2-matching/images/image_1.png
+/home/anton-ai/sentinel2-matching/images/image_3.png
+/home/anton-ai/sentinel2-matching/images/image_7.png
+/home/anton-ai/sentinel2-matching/images/image_10.png
+/home/anton-ai/sentinel2-matching/images/naturalimage.png

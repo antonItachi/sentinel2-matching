@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eaa145a1-6840-41b7-afd9-0690302cdc89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d2_net" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_obtaining.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image_list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/colorinfrared.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_1.png.d2-net.npz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_10.png.d2-net.npz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_3.png.d2-net.npz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_7.png.d2-net.npz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/naturalimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/naturalimage.png.d2-net.npz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/d2_ots.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/d2_tf.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/d2_tf_no_phototourism.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2_net/extract_features.py" beforeDir="false" afterPath="$PROJECT_DIR$/d2_net/extract_features.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2_net/lib/pyramid.py" beforeDir="false" afterPath="$PROJECT_DIR$/d2_net/lib/pyramid.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2YGta2VL2XALuuO39ahOCWkZpx2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaa145a1-6840-41b7-afd9-0690302cdc89" name="Changes" comment="" />
+      <created>1700163803425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700163803425</updated>
+      <workItem from="1700163804991" duration="6177000" />
+      <workItem from="1700173879953" duration="920000" />
+      <workItem from="1700225867011" duration="8446000" />
+      <workItem from="1700235549692" duration="8024000" />
+      <workItem from="1700264113382" duration="17635000" />
+      <workItem from="1700348849438" duration="4288000" />
+      <workItem from="1700407856182" duration="4060000" />
+      <workItem from="1700436173064" duration="3618000" />
+      <workItem from="1700440214129" duration="396000" />
+      <workItem from="1700440736277" duration="457000" />
+      <workItem from="1700441700093" duration="302000" />
+      <workItem from="1700442055780" duration="9857000" />
+      <workItem from="1700502472298" duration="3622000" />
+      <workItem from="1700526776636" duration="161000" />
+      <workItem from="1700526948171" duration="2649000" />
+      <workItem from="1700529607139" duration="530000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sentinel2_matching$extract_features.coverage" NAME="extract_features Coverage Results" MODIFIED="1700442070075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/d2_net" />
+  </component>
+</project>
